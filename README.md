@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello! I'm Alina </h1>
+<img src="https://www.codewars.com/users/misssplay/badges/large" />
 
-https://www.codewars.com/users/misssplay/badges/large
 
 ### 🛠 &nbsp;Languages and Tools :
 
