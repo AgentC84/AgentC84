@@ -1,4 +1,8 @@
-<h1 align="center">👋 Hello! I'm Alina </h1>
+<h1 align="center">Lauk Alina - frontend-developer</h1>
+
+-👋 Hello! I'm Alina
+
+CodeWars:
 <img src="https://www.codewars.com/users/misssplay/badges/large" />
 
 
