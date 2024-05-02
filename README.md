@@ -1,12 +1,16 @@
 <h1 align="center">Lauk Alina - frontend-developer</h1>
+✨ Программирование как волшебство, превращающее идеи в реальность ✨
 
--👋 Hello! I'm Alina
+### 📝Обо мне
+---
 
-CodeWars:
+
+### 🛠 &nbsp; CodeWars:
 <img src="https://www.codewars.com/users/misssplay/badges/large" />
 
+---
 
-### 🛠 &nbsp;Languages and Tools :
+# <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Languages and Tools :
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
