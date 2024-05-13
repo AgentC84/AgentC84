@@ -1,12 +1,12 @@
 <h1 align="center">Lauk Alina - frontend-developer</h1>
-✨ Программирование как волшебство, превращающее идеи в реальность ✨
 
 ### 📝Обо мне
 ---
 
+## <img align="left" alt="telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124019.png" /> [@alinalauk](https://t.me/alinalauk)
+### <img align="left" alt="codewars" width="22px" src="https://docs.codewars.com/logo.svg" /> [CodeWars](https://www.codewars.com/users/misssplay)
 
-### 🛠 &nbsp; CodeWars:
-<img src="https://www.codewars.com/users/misssplay/badges/large" />
+[<img src="https://www.codewars.com/users/misssplay/badges/large" />](https://www.codewars.com/users/misssplay)
 
 ---
 
